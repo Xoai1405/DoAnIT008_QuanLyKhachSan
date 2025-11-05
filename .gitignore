@@ -60,3 +60,5 @@ appsettings.Development.json
 secrets.json
 # Các file bí mật khác
 *.Secret.json
+# Windows system file
+desktop.ini
